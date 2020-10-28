@@ -1,0 +1,19 @@
+{
+    "name": "ghidev/fpdf",
+    "description": "A package which provides FPDF class functionality to Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Esquivel",
+            "email": "jfesquivel@grupohi.mx"
+        }
+    ],
+    "require": {
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ghidev\\Fpdf\\": "src/"
+        }
+    }
+}

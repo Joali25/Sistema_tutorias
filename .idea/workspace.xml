@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58c618fa-b6ef-486f-844d-d1dfcc596d44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/kylekatarnls/update-helper" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZXJSb6TRNfdN0SaoKmKMHRMb7D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vistas" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vistas" />
+      <recent name="$PROJECT_DIR$/persistencia/servicio" />
+      <recent name="$PROJECT_DIR$/persistencia/entidad" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c618fa-b6ef-486f-844d-d1dfcc596d44" name="Default Changelist" comment="" />
+      <created>1584979505483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584979505483</updated>
+      <workItem from="1584979506633" duration="4087000" />
+      <workItem from="1585447650732" duration="14736000" />
+      <workItem from="1585507714545" duration="9384000" />
+      <workItem from="1585553839433" duration="4224000" />
+      <workItem from="1585580577806" duration="36582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="292" y="3" width="482" height="732" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584986516612">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="292" y="3" width="482" height="732" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.735@0.0.1366.735" timestamp="1584986516612" />
+    <state x="74" y="125" width="530" height="481" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1585589849220">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="74" y="125" width="530" height="481" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.735@0.0.1366.735" timestamp="1585589849220" />
+    <state x="124" y="125" width="430" height="481" key="FileChooserDialogImpl" timestamp="1585448144980">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="124" y="125" width="430" height="481" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1585448144980" />
+    <state x="501" y="295" width="360" height="144" key="NewPhpFileDialog" timestamp="1585672679258">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="501" y="295" width="360" height="144" key="NewPhpFileDialog/0.0.1366.735@0.0.1366.735" timestamp="1585672679258" />
+    <state x="366" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1585580579666">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="366" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1585580579666" />
+    <state x="344" y="162" key="run.anything.popup" timestamp="1585593118494">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="344" y="162" key="run.anything.popup/0.0.1366.735@0.0.1366.735" timestamp="1585593118494" />
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup" timestamp="1585509263910">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="346" y="56" width="672" height="678" key="search.everywhere.popup/0.0.1366.735@0.0.1366.735" timestamp="1585509263910" />
+  </component>
+</project>
